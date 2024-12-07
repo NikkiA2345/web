@@ -1,3 +1,10 @@
 body{
 	margin: 0;
 }
+.mainlogo{
+	width: 100px;
+	height: 100px;
+}
+div {
+	background-color: #b3ffb3
+}
