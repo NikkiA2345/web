@@ -12,3 +12,13 @@ body{
 	height: 150px;
 	width: 150px;
 }
+.menu {
+	position: absolute;
+	left: 500px;
+
+}
+ol{
+	margin: 20px;
+	display: inline-flex;
+	padding-top: 30px;
+}
